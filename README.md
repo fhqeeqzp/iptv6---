@@ -105,6 +105,7 @@ function copyToClipboard(text) {
 
 - 🆕 EPG 接口地址：
   - [http://epg.51zmt.top:8000/](http://epg.51zmt.top:8000/)
+  - https://epg.mxdyeah.top/api/diyp/?ch={name}&date={date} 可用于影视云仓1.0.6 EPG配置中使用
 - 📄 M3U To TXT：
   - Demo🔗 [https://zhuan.zhoujie218.top/z.php?url=https://live.zhoujie218.top/dsyy/iptv6.m3u](https://zhuan.zhoujie218.top/z.php?url=https://live.zhoujie218.top/dsyy/iptv6.m3u)
 - 📄 TXT To M3U：
