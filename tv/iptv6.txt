@@ -43,7 +43,7 @@ CHC影迷电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 
 
 卫视频道,#genre#
-龙江卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
+黑龙江卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 安徽卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 安徽卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 北京卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
@@ -208,9 +208,3 @@ SITV金色学堂,http://[2409:8087:5e08:24::12]:6610/000000001000/20000000020000
 内蒙古蒙语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
 七彩戏剧,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281
 七彩戏剧,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-
-
-
-更新时间,#genre#
-2024-07-08 15:26:48,https://vd2.bdstatic.com/mda-qg7aaxanpg2jwq4m/720p/h264/1720423041491052621/mda-qg7aaxanpg2jwq4m.mp4?v_from_s=bdapp-resbox-hnb
-vip:88164962,https://vd2.bdstatic.com/mda-qg7aaxanpg2jwq4m/720p/h264/1720423041491052621/mda-qg7aaxanpg2jwq4m.mp4?v_from_s=bdapp-resbox-hnb
